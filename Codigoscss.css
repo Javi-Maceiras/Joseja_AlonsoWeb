@@ -1,0 +1,102 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, yellow, orange);
+    color: #2e2e2e;
+}
+
+header {
+    background-color: #ff3300;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+nav {
+    background-color: #ff9900;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav a {
+    color: #ffffff;
+    font-weight: bold;
+    margin: 0 15px;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
+nav a i {
+    margin-right: 5px;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff8e1;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
+}
+
+table th {
+    background-color: #ff3300;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li i {
+    color: #ff3300;
+    margin-right: 8px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff3300;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ff3300;
+    color: white;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #fff;
+}
